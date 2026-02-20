@@ -8,3 +8,7 @@ Answer: Data science could be applied to the biomedical research field. In this 
 there are many large, complex datasets from gene databases to clinical trial data
 that needs to be cleaned, interpreted, and used to create insights that drive innovation.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the entire history of the repository while rebasing rewrites
+the history to create a linear history without branching.
